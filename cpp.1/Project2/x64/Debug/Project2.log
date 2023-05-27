@@ -1,0 +1,4 @@
+﻿D:\vsprojects\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+D:\cpp.1\Project2\main.cpp(48,2): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project2.vcxproj -> D:\cpp.1\Project2\x64\Debug\Kruskal算法.exe

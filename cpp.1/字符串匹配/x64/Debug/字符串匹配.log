@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\cpp.1\字符串匹配\main.cpp(16,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\cpp.1\字符串匹配\main.cpp(17,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  字符串匹配.vcxproj -> D:\cpp.1\字符串匹配\x64\Debug\字符串匹配.exe
